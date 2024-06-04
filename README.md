@@ -1,6 +1,10 @@
 # Hi there! I'm Panida Paethanom 👋
 
-![Noroff School of Technology and Digital Media](https://static.noroff.no/cms/noroff/noroff-logo.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://xcruiter.no/wp-content/uploads/2023/12/noroff-logo-xcruiter.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://static.noroff.no/cms/noroff/noroff-logo.png">
+  <img alt="Noroff School of Technology and Digital Media" src="https://static.noroff.no/cms/noroff/noroff-logo.png" width="200" height="auto">
+</picture>
 
 I'm a first-year front-end developer student at [Noroff School of Technology and Digital Media](https://www.noroff.no). I'm passionate about building user-friendly websites and applications.
 
