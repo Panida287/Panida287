@@ -1,4 +1,6 @@
 # Hi there! I'm Panida Paethanom 👋
+![Profile views](https://komarev.com/ghpvc/?username=Panida287&style=flat-square)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://xcruiter.no/wp-content/uploads/2023/12/noroff-logo-xcruiter.png">
