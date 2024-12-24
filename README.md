@@ -8,11 +8,11 @@
   <img alt="Noroff School of Technology and Digital Media" src="https://static.noroff.no/cms/noroff/noroff-logo.png" width="150" height="auto">
 </picture>
 
-I'm a first-year front-end developer student at [Noroff School of Technology and Digital Media](https://www.noroff.no). I'm passionate about building user-friendly websites and applications.
+I'm a final-year front-end developer student at [Noroff School of Technology and Digital Media](https://www.noroff.no). I'm passionate about building user-friendly websites and applications.
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,figma)](https://skillicons.dev)
 
 
 ## 📚 Current Learning
@@ -20,6 +20,7 @@ I'm a first-year front-end developer student at [Noroff School of Technology and
 At Noroff, I'm learning about modern web development practices, including:
 
 - Vanilla JavaScript
+- Frameworks
 - UX/UI Design principles
 
 ## 📫 How to reach me
