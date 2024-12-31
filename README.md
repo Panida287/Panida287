@@ -12,7 +12,7 @@ I'm a final-year front-end developer student at [Noroff School of Technology and
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,figma,ai,ps,pr)](https://skillicons.dev)
 
 
 ## 📚 Current Learning
@@ -23,6 +23,10 @@ At Noroff, I'm learning about modern web development practices, including:
 - Frameworks
 - UX/UI Design principles
 
+## 👾 Hobby
+- 👩🏻‍🍳 As a former chef of 10 years at fine-dining and michelin-starred restaurants, I love to cook all kind of food
+- 📸 Also love to photograph random stuff with my Nikon D850, follow my at: [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)[ :chef_shots]([https://www.linkedin.com/in/panida-paethanom-8a6317239/](https://www.instagram.com/chef_shots?igsh=MTkyNjJhYWUxcHhybg%3D%3D&utm_source=qr))
+
 ## 📫 How to reach me
 
 - Email: [panida.paethanom@gmail.com](mailto:panida.paethanom@gmail.com)
@@ -31,8 +35,7 @@ At Noroff, I'm learning about modern web development practices, including:
 
 ## 🛠️ Tools and Technologies
 
-- ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white) **WebStorm**
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub**
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,github,webstorm,apple)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
