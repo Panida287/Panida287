@@ -1,4 +1,4 @@
-# Hi there! I'm Panida Paethanom 👋
+# <img alt="Panida287" src="https://i.imgur.com/3mQSUZM.png" width="150" height="auto"> Hi there! I'm Panida Paethanom 👋
 ![Profile views](https://komarev.com/ghpvc/?username=Panida287&style=flat-square)
 
 
