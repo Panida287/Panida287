@@ -4,6 +4,9 @@
 
 I'm a final-year front-end developer student at [Noroff School of Technology and Digital Media](https://www.noroff.no). I'm passionate about building user-friendly websites and applications.
 
+## Check out my portfolio
+- [Panida's Portfolio](http://panidapaethanom.com)
+
 ## 🚀 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,figma,ai,ps,pr)](https://skillicons.dev)
