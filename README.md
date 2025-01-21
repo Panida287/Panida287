@@ -19,6 +19,7 @@ At Noroff, I'm learning about modern web development practices, including:
 - Vanilla JavaScript
 - Frameworks
 - UX/UI Design principles
+- Basic backend (API)
 
 ## 👾 Hobby
 - 👩🏻‍🍳 As a former chef of 10 years at fine-dining and michelin-starred restaurants, I love to cook all kind of food
