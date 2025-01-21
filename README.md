@@ -9,7 +9,7 @@ I'm a final-year front-end developer student at [Noroff School of Technology and
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,figma,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,figma,ai,ps,pr,mongodb,express)](https://skillicons.dev)
 
 
 ## 📚 Current Learning
